@@ -1,0 +1,174 @@
+[
+  {
+    "id": "1",
+    "marketName": "Market A",
+    "sections": [
+      {
+        "id": "1",
+        "sectionName": "R1",
+        "sectionType": "Gıda",
+        "products": [
+          {
+            "id": "1",
+            "name": "Pirinç"
+          },
+          {
+            "id": "2",
+            "name": "Ekmek"
+          },
+          {
+            "id": "3",
+            "name": "Un"
+          },
+          {
+            "id": "4",
+            "name": "Makarna"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "sectionName": "R2",
+        "sectionType": "Temizlik",
+        "products": [
+          {
+            "id": "5",
+            "name": "Bez"
+          },
+          {
+            "id": "6",
+            "name": "Deterjan"
+          },
+          {
+            "id": "7",
+            "name": "Sabun"
+          },
+          {
+            "id": "8",
+            "name": "Sünger"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "sectionName": "R3",
+        "sectionType": "Kırtasiye",
+        "products": [
+          {
+            "id": "9",
+            "name": "Kalem"
+          },
+          {
+            "id": "10",
+            "name": "Defter"
+          },
+          {
+            "id": "11",
+            "name": "Silgi"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "sectionName": "R4",
+        "sectionType": "Kozmetik",
+        "products": [
+          {
+            "id": "12",
+            "name": "Parfüm"
+          },
+          {
+            "id": "13",
+            "name": "Ruj"
+          },
+          {
+            "id": "14",
+            "name": "Rimel"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "sectionName": "R5",
+        "sectionType": "Elektronik",
+        "products": [
+          {
+            "id": "15",
+            "name": "Bilgisayar"
+          },
+          {
+            "id": "16",
+            "name": "Telefon"
+          },
+          {
+            "id": "17",
+            "name": "Tablet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "marketName": "Market B",
+    "sections": [
+      {
+        "id": "6",
+        "sectionName": "R1",
+        "sectionType": "Gıda",
+        "products": [
+          {
+            "id": "18",
+            "name": "Ekmek"
+          },
+          {
+            "id": "19",
+            "name": "Un"
+          },
+          {
+            "id": "20",
+            "name": "Makarna"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "sectionName": "R2",
+        "sectionType": "Temizlik",
+        "products": [
+          {
+            "id": "21",
+            "name": "Sabun"
+          },
+          {
+            "id": "22",
+            "name": "Toz Bezi"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "sectionName": "R3",
+        "sectionType": "Kırtasiye",
+        "products": [
+          {
+            "id": "23",
+            "name": "Silgi"
+          },
+          {
+            "id": "24",
+            "name": "Kalemtraş"
+          },
+          {
+            "id": "25",
+            "name": "Kalem"
+          },
+          {
+            "id": "26",
+            "name": "Defter"
+          }
+        ]
+      }
+    ]
+  }
+]
